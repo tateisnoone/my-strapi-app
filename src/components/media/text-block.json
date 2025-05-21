@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_media_text_blocks",
+  "info": {
+    "displayName": "text-block",
+    "icon": "quote"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
